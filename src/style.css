@@ -1,0 +1,6 @@
+.overflowText{
+  max-width: 300px;
+  max-height: 100px;
+  margin: 50px;
+  background: lightgrey;
+}
